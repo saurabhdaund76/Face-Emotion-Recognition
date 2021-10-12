@@ -1,0 +1,2 @@
+my_model.h5 -> Model made by me
+haarcascade_frontalface_default.xml -> Pre-trained Model used for Face Recogination
