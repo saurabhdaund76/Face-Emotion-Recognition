@@ -39,11 +39,15 @@ Deployment done for this project on Heroku and Streamlit share using Streamlit f
 	Deployment Link for Heroku -  https://share.streamlit.io/saurabhdaund76/face-emotion-recognition/main/app.py
 	Deployment Link for Streamlit Share - https://face-emotion-recognition-proj.herokuapp.com/ 
 # Installation
-  Run project with
+# Run project with
   Anaconda
+  
   Jupyter notebook
+  
   Visual Studio Code
+  
   Kaggle kernel 
+  
   anaconda prompt
 
 
